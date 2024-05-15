@@ -1,0 +1,12 @@
+"use strict";
+let firstName = "ashim";
+let roll = 123;
+let isAdmin = false;
+let x = undefined;
+let y = null;
+let d;
+let friends = ["hello", 'vai'];
+let rollNumber = [3, 4, 3];
+// tuple-->array-->order--> type of value;
+let coordinates = [1, 23];
+let ageName = [2, "ad"];
